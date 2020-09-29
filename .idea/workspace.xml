@@ -10,13 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="515b6e99-996a-4e7c-85fb-6b6f77e9cf09" name="Default Changelist" comment="prideta nuotrauku">
+    <list default="true" id="515b6e99-996a-4e7c-85fb-6b6f77e9cf09" name="Default Changelist" comment="galutinis be footer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Radio_Dalmacija_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Universal_Television_Logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/radiox-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/talk-sport-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wdr2-logo.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -63,7 +58,8 @@
       <workItem from="1601290354319" duration="6896000" />
       <workItem from="1601317640543" duration="4025000" />
       <workItem from="1601322543658" duration="1288000" />
-      <workItem from="1601382199911" duration="3034000" />
+      <workItem from="1601382199911" duration="3215000" />
+      <workItem from="1601413145302" duration="444000" />
     </task>
     <task id="LOCAL−00001" summary="Grid baigiamasis darbas">
       <created>1601315211034</created>
@@ -77,7 +73,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1601322245698</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="galutinis be footer">
+      <created>1601385366101</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1601385366101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,17 +100,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Grid baigiamasis darbas" />
     <MESSAGE value="prideta nuotrauku" />
-    <option name="LAST_COMMIT_MESSAGE" value="prideta nuotrauku" />
+    <MESSAGE value="galutinis be footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="galutinis be footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601317870596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601317870596" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601322257929">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601385392393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601322257929" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601385392393" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1601313289021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
